@@ -1,0 +1,6 @@
+{
+  "name": "Crowdfunded Community Action Platform",
+  "description": "A responsive full-stack platform where citizens propose local community initiatives, crowdfund financial support, register as volunteers, and track impact on an interactive map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
